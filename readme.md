@@ -104,7 +104,9 @@ Railway generará una URL pública para consumir la API en la nube.
 
 ## 📝 Inspiración
 Este proyecto se inspiró en la estructura y el enfoque del repositorio gothinkster/golang-gin-realworld-example-app, el cual implementa una API completa basada en el estándar RealWorld API Spec.
+Licencia original: MIT License
 
+El código fue modificado con fines educativos y de demostración técnica, sin fines comerciales.
 
 ## Desarrollado con ❤️ por spookycoincidence
 
